@@ -1,0 +1,2 @@
+# beatrice
+Multifunctional Discord Bot
