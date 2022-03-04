@@ -1,3 +1,5 @@
-◣ 08.02.2022 ◥
+version 0.0.1-alpha
 
-[+] Created Bot // this gotta be the best log iv'e ever seen in my life.
+● bot status with prefix,website and version informations.
+● help command with different sections and "how to use" instruction.
+● started moderation and information section for help page.
